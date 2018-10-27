@@ -1,0 +1,70 @@
+.char{
+    float: left;
+    height:140px;
+    widows: 140px;
+    border: 1px solid orange;
+    
+
+}
+.hidden{
+    display: none;
+}
+img {
+    height: 100px;
+    width: 100px;
+    margin-right: 12.5px;
+    margin-left:12.5px;
+}
+.health {
+    margin-left: 60px;
+    font-size: 12px;
+    color: yellow;
+    font-weight: bold
+    
+}
+.name{
+    margin-left: 12.5px;
+    font-size: 15px;
+    color: orange
+    
+}
+#defender #battle #fighter #choices #challengers h3 {
+    width: 100%;
+    overflow:auto;
+}
+.wrapper {
+    width: 100%;
+    display: inline-block;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+h3 {
+    margin: 4px 0px;
+    color: white
+}
+body {
+    background-image: url(https://vignette.wikia.nocookie.net/starwars/images/e/ee/DeathStar2.jpg/revision/latest?cb=20150615015212);
+    background-repeat: none;
+    background-position: fixed;
+}
+.me {
+    background-color: green;
+    border: 2px solid white;
+
+}
+.villian {
+    background-color: red;
+    border: 2px solid white;
+}
+.villianText {
+    color: white;
+}
+#message {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
