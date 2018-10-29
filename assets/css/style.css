@@ -47,8 +47,9 @@ h3 {
 }
 body {
     background-image: url(https://vignette.wikia.nocookie.net/starwars/images/e/ee/DeathStar2.jpg/revision/latest?cb=20150615015212);
-    background-repeat: none;
+    background-repeat: no-repeat;
     background-position: fixed;
+    background-color: black;
 }
 .me {
     background-color: green;
